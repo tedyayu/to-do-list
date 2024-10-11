@@ -1,1 +1,1 @@
-# to-do-list
+# It is a simple to-do-list built using javascriptand html and css
